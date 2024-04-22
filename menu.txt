@@ -1,0 +1,47 @@
+MEDIO 16 oz
+29
+GRANDE 22 oz
+39
+
+<MILK TEA WITH PEARL>
+Okinawa
+Wintermelon
+Red velvet
+Matcha
+Double Dutch
+Cheesecake
+Dark Choco
+Choco Kisses
+Chocolate
+Salted Caramel
+Cookies & Cream
+Taro
+
+<ICE COFFEE WITH CREAMPUFF>
+Kape Brusko (Sweet Black Coffee)
+Κape Machh (Macchiato)
+Kape Moca (Dark Choco)
+Kape Vanilla (Vanilla)
+Kape Fudge (Chocolate Fudge)
+Kape Matcha (Green Tea)
+Kape Karamel (Salted Caramel)
+
+
+<FRUIT TEA WITH CRYSTAL>
+Kiwi
+Lychee
+Green Apple
+Lemon
+Honey Peach
+Mango
+
+
+
+<HOTBREW>
+12oz P35
+Hot Brusko
+Hot Choco
+Hot Moca
+Hot Matcha
+Hot Karamel
+
